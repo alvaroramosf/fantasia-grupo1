@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Trufa\OneDrive\Escritorio\DAM\Entorno\Proyecto Fantasía\fantasia-grupo1\.metadata\.plugins\org.eclipse.jdt.core
