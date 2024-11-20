@@ -18,6 +18,11 @@ public class Dialogo {
         
         System.out.println("Ponme otra rubia, rubia - Le grité a la tabernera. La mía tiene un agujero!!!");
         
+        System.out.println("Entonces Légolas, dándose por aludido por aquel desafortunado comentario, sacó una de sus dagas apuntando directo hacia Pablo" );
+        
+        System.out.println("¿A quién llamas tú rubia, pequeño hobbit pelirrojo?- Exclamó Légolas");
+        
+        System.out.println("Acto seguido, Légolas lanzó la daga con la mala suerte de impactar en la jarra de Gimli, tras una fantástica finta de Pablo");
 	}
 
 }
