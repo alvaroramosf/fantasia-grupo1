@@ -16,6 +16,8 @@ public class Dialogo {
         System.out.println("Joder Pablo te APESTAN los pies!! Me estás arruinado la cerveza, a pesar de tener la estatura de un enano adulto,"
         		+ "te huelen peor que un eructo de mi viejo después de cenar ancas de rana de la Ciénaga de los Muertos");
         
+        System.out.println("Ponme otra rubia, rubia - Le grité a la tabernera. La mía tiene un agujero!!!");
+        
 	}
 
 }
