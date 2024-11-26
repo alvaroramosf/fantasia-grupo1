@@ -25,6 +25,8 @@ public class Dialogo {
         System.out.println("Acto seguido, Légolas lanzó la daga con la mala suerte de impactar en la jarra de Gimli, tras una fantástica finta de Pablo");
         
         System.out.println("Maldito espagueti con orejas puntiagudas, Nadie golpea a un enano! - Gritó Gimli enfadado, mientras se subía a la mesa y se abalanza contra Légolas");
+	
+        System.out.println("\"Ha sido un malentendido sin mayor importancia\" le dijo Pablo a Legolas, refieriendose a su comentsario, mientras la rubia tabernera rellenaba su jarra.");
 	}
 
 }
