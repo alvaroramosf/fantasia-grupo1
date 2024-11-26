@@ -26,7 +26,9 @@ public class Dialogo {
         
         System.out.println("Maldito espagueti con orejas puntiagudas, Nadie golpea a un enano! - Gritó Gimli enfadado, mientras se subía a la mesa y se abalanza contra Légolas");
 	
-        System.out.println("\"Ha sido un malentendido sin mayor importancia\" le dijo Pablo a Legolas, refieriendose a su comentsario, mientras la rubia tabernera rellenaba su jarra.");
+        System.out.println("\"Ha sido un malentendido sin mayor importancia\" le dijo Pablo a Legolas, refieriendose a su comentario, mientras la rubia tabernera rellenaba su jarra.");
+        
+        System.out.println(" EH! Esa cerveza extra va al avanzado del Tricount!! - Dirigiéndose Gimli a Pablo, mientras se estaba encima de Légolas");
 	}
 
 }
