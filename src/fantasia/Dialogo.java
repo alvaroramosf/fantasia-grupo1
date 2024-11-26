@@ -29,6 +29,8 @@ public class Dialogo {
         System.out.println("\"Ha sido un malentendido sin mayor importancia\" le dijo Pablo a Legolas, refieriendose a su comentario, mientras la rubia tabernera rellenaba su jarra.");
         
         System.out.println(" EH! Esa cerveza extra va al avanzado del Tricount!! - Dirigiéndose Gimli a Pablo, mientras se estaba encima de Légolas");
+        
+        System.out.println("Bueno, basta ya de pelear - exclamó Pablo Motos, conciliador.");
 	}
 
 }
