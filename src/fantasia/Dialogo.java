@@ -36,6 +36,11 @@ public class Dialogo {
         		+ "Dicen las malas lenguas que esconde el tesoro del grandioso capitán Jack Sparrow- Susurró Légolas");
         
         System.out.println("Tesoro?? Conozco a una criatura que siempre anda diciendo... Mi tesooooroooo... podríamos ir y preguntarle, vive debajo del puente del Ebro, vamos! - Dijo Gimli");
+        
+        System.out.println("Al menos ya tenemos por donde empezar. Preparad vuestros ponis, saldremos esta noche para no despertar sospechas,"
+        		+ "no quiero que se entere toda Narnia de lo que vamos a hacer. -Añadió Légolas");
+        
+        System.out.println("Los tres valientes caballeros recogieron sus cosas sin mucho detenimiento y se prepararon para una larga cabalgada...");
 	}
 
 }
