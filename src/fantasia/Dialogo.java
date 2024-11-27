@@ -31,6 +31,9 @@ public class Dialogo {
         System.out.println(" EH! Esa cerveza extra va al avanzado del Tricount!! - Dirigiéndose Gimli a Pablo, mientras se estaba encima de Légolas");
         
         System.out.println("Bueno, basta ya de pelear - exclamó Pablo Motos, conciliador.");
+        
+        System.out.println("Tienes razón, pequeño pelirrojo, vamos a planear nuestro próximo golpe contra Broncano. "
+        		+ "Dicen las malas lenguas que esconde el tesoro del grandioso capitán Jack Sparrow- Susurró Légolas");
 	}
 
 }
