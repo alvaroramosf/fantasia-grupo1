@@ -34,6 +34,8 @@ public class Dialogo {
         
         System.out.println("Tienes razón, pequeño pelirrojo, vamos a planear nuestro próximo golpe contra Broncano. "
         		+ "Dicen las malas lenguas que esconde el tesoro del grandioso capitán Jack Sparrow- Susurró Légolas");
+        
+        System.out.println("Tesoro?? Conozco a una criatura que siempre anda diciendo... Mi tesooooroooo... podríamos ir y preguntarle, vive debajo del puente del Ebro, vamos! - Dijo Gimli");
 	}
 
 }
