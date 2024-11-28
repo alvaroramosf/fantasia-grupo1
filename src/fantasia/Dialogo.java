@@ -40,7 +40,10 @@ public class Dialogo {
         System.out.println("Al menos ya tenemos por donde empezar. Preparad vuestros ponis, saldremos esta noche para no despertar sospechas,"
         		+ "no quiero que se entere toda Narnia de lo que vamos a hacer. -Añadió Légolas");
         
+        System.out.println("shh.. Légolas! shh oye que no se entere el pelirrojo, llévame en tu caballo, los enanos y esos bichos de patas largas no nos llevamos bien");
+        
         System.out.println("Los tres valientes caballeros recogieron sus cosas sin mucho detenimiento y se prepararon para una larga cabalgada...");
+        
 	}
 
 }
