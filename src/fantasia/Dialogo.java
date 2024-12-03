@@ -49,6 +49,8 @@ public class Dialogo {
         System.out.println("A 0,00000000000543 bitcoins - exclamó la mesera");
         
         System.out.println("Le toca pagar al niño. - Dijo Légolas, mientras despeinaba a Gimli");
+        
+        System.out.println("A 0,00000000000547 bitcoins - exclamó la mesera - La inflación también afecta a los bitcoins en nuestro universo fantástico -");
 	}
 
 }
