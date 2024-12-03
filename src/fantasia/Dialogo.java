@@ -47,6 +47,8 @@ public class Dialogo {
         System.out.println("\" Moza, ¿a cuanto asciende la multa?\" - Exclamó Pablo Motos refiriéndose a la joven tabernera\" ");
         
         System.out.println("A 0,00000000000543 bitcoins - exclamó la mesera");
+        
+        System.out.println("Le toca pagar al niño. - Dijo Légolas, mientras despeinaba a Gimli");
 	}
 
 }
