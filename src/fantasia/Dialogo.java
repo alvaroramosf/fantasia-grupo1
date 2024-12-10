@@ -73,6 +73,12 @@ public class Dialogo {
         System.out.println("AGhggghhhhgggghhh... aAgghhhh, me muero... dile a bromcano que lo am... - Exclamó Pablo mientras su sangre regaba el adoquinado del Puente");
         
         System.out.println("En ese preciso momento de tensión absoluta, a Légolas se le escapó una risa nerviosa y añadió: bueno... un enano menos en mi vida.. el día mejora por momentos");
+        
+        System.out.println("Era un hobbit, jodido racista. - Exclamó Gimli");
+        
+        System.out.println("La criatura Golum cubierta de sangre y con restos del hobbit aún colgando entre sus dientes, se quedó mirando fijamente al duo restante y empezó a correr hacie ellos");
+        
+        System.out.println("Mierda!! Jamás pensé que moriría peleando junto a un elfo. - Exclamó Gimli");
 	}
 
 }
