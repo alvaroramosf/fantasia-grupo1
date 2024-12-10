@@ -63,7 +63,8 @@ public class Dialogo {
         	
         	
         System.out.println("Gollum, escucha, el anillo único puede ser tuyo, pero la audiencia siempre sera mía - Le susurro Pablo Motos, esquivando un mordisco de la bestia con desfachatez.");
-	
+        
+        System.out.println("Pobre ser tan repugnante. No querría que mi delicado cutis acabase como la cara de ese desgraciado. Se parece a tu mujer recien levantada, Gimli - Añadió Légolas a carcajadas.");
 	}
 
 }
