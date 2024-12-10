@@ -81,6 +81,8 @@ public class Dialogo {
         System.out.println("Mierda!! Jamás pensé que moriría peleando junto a un elfo. - Exclamó Gimli");
         
         System.out.println("¿Tampoco junto a un amigo? - respondió Légolas mientras intentaba besar a Gimli ");
+        
+        System.out.println("Gimli ruborizado y nervioso, con su barba erizada por el mágico momento, se puso de puntillas y empezó a besar a Légolas.");
 	}
 
 }
