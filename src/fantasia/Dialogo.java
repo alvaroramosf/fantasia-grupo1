@@ -71,6 +71,8 @@ public class Dialogo {
         System.out.println("Mientras el enano y el elfo estaban discutiendo, Golum se avalanzó a la yugular de Pablo Motos e incó los dientes cual comiéndose un pescado crudo");
         
         System.out.println("AGhggghhhhgggghhh... aAgghhhh, me muero... dile a bromcano que lo am... - Exclamó Pablo mientras su sangre regaba el adoquinado del Puente");
+        
+        System.out.println("En ese preciso momento de tensión absoluta, a Légolas se le escapó una risa nerviosa y añadió: bueno... un enano menos en mi vida.. el día mejora por momentos");
 	}
 
 }
