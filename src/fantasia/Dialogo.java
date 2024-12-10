@@ -57,6 +57,9 @@ public class Dialogo {
         		+ "pero no sin antes llevarse un arañazo en la cara de regalo");
         
         System.out.println("Él camina aquí y allá como un cazador, pero una presa hay en su mente. - Añadió Légolas");
+        
+        System.out.println("Diantres! Era conocedor que los programadores eran seres grotescos y aislados de la humanidad, pero no me imaginaba tal criatura"
+        	+ "Pablo!! Intenta comunicarte con tu hermano! No queremos pelear!");
 	
 	}
 
