@@ -74,7 +74,7 @@ public class Dialogo {
         
         System.out.println("En ese preciso momento de tensión absoluta, a Légolas se le escapó una risa nerviosa y añadió: bueno... un enano menos en mi vida.. el día mejora por momentos");
         
-        System.out.println("Era un hobbit, jodido racista. - Exclamó Gimli");
+        System.out.println("Era un hobbit, maldito racista. - Exclamó Gimli");
         
         System.out.println("La criatura Golum cubierta de sangre y con restos del hobbit aún colgando entre sus dientes, se quedó mirando fijamente al duo restante y empezó a correr hacie ellos");
         
@@ -85,6 +85,11 @@ public class Dialogo {
         System.out.println("Gimli ruborizado y nervioso, con su barba erizada por el mágico momento, se puso de puntillas y empezó a besar a Légolas.");
         
         System.out.println("Cuando Gollum estaba a punto de alcanzarlos, paro en seco. - He conseguido poseer a este ser - Exclamó el cuerpo de Gollum con la melodiosa voz de Motos");
+        
+        System.out.println("Solo tú podrías romper este momento...  al menos ahora no hueles tan mal. - Suspiró Gimli. "
+        		+ "Volvamos a la taberna! Necesito una cerveza, no puedo más. - Exlamó mientras se derigía a los caballos ");
+        
+        System.out.println("Y así, cabalgando hacia el atardecer, la historia nuestro trío de protagonistas termina...  o no?? ");
 	}
 
 }
