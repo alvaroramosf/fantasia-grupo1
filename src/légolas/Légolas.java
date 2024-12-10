@@ -8,7 +8,7 @@ public class Légolas {
 				+ "Es conocido por su aguda vista, gran oído, "
 				+ "habilidades con el arco y su elegancia. "
 				+ "Su carácter noble y su conexión con la naturaleza reflejan las virtudes tradicionales de los elfos.");
-		System.out.println("Frase típica: \"Nunca pensé que moriría luchando junto a un enano.\"");
+		System.out.println("Frase típica: Él camina aquí y allá como un cazador, pero una presa hay en su mente.");
 	}
 
 }

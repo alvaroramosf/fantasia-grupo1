@@ -51,6 +51,13 @@ public class Dialogo {
         System.out.println("Le toca pagar al niño. - Dijo Légolas, mientras despeinaba a Gimli");
         
         System.out.println("A 0,00000000000547 bitcoins - exclamó la mesera - La inflación también afecta a los bitcoins en nuestro universo fantástico -");
+        
+        System.out.println("Gimli pagó a la mesera y los tres guerreros pusieron rumbo hasta aquel puente maldito, donde se toparon con el guardían del famoso tesoro, Golum. "
+        		+ "Sin apenas tiempo de reacción, la criatura se balanceó contra Légolas que iba con la armadura más brillante. El elfo, pudo esquivarlo en el último segundo,"
+        		+ "pero no sin antes llevarse un arañazo en la cara de regalo");
+        
+        System.out.println("Él camina aquí y allá como un cazador, pero una presa hay en su mente. - Añadió Légolas");
+	
 	}
 
 }
