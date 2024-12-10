@@ -60,6 +60,9 @@ public class Dialogo {
         
         System.out.println("Diantres! Era conocedor que los programadores eran seres grotescos y aislados de la humanidad, pero no me imaginaba tal criatura"
         	+ "Pablo!! Intenta comunicarte con tu hermano! No queremos pelear!");
+        	
+        	
+        System.out.println("Gollum, escucha, el anillo único puede ser tuyo, pero la audiencia siempre sera mía - Le susurro Pablo Motos, esquivando un mordisco de la bestia con desfachatez.");
 	
 	}
 
