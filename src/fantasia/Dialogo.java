@@ -83,6 +83,8 @@ public class Dialogo {
         System.out.println("¿Tampoco junto a un amigo? - respondió Légolas mientras intentaba besar a Gimli ");
         
         System.out.println("Gimli ruborizado y nervioso, con su barba erizada por el mágico momento, se puso de puntillas y empezó a besar a Légolas.");
+        
+        System.out.println("Cuando Gollum estaba a punto de alcanzarlos, paro en seco. - He conseguido poseer a este ser - Exclamó el cuerpo de Gollum con la melodiosa voz de Motos");
 	}
 
 }
