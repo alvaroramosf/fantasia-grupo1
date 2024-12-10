@@ -79,6 +79,8 @@ public class Dialogo {
         System.out.println("La criatura Golum cubierta de sangre y con restos del hobbit aún colgando entre sus dientes, se quedó mirando fijamente al duo restante y empezó a correr hacie ellos");
         
         System.out.println("Mierda!! Jamás pensé que moriría peleando junto a un elfo. - Exclamó Gimli");
+        
+        System.out.println("¿Tampoco junto a un amigo? - respondió Légolas mientras intentaba besar a Gimli ");
 	}
 
 }
