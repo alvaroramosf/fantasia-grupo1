@@ -69,6 +69,8 @@ public class Dialogo {
         System.out.println("Pff con chistes como esos normal que Pablo te siga invitando a su programa.. - comentó Gimli");
         
         System.out.println("Mientras el enano y el elfo estaban discutiendo, Golum se avalanzó a la yugular de Pablo Motos e incó los dientes cual comiéndose un pescado crudo");
+        
+        System.out.println("AGhggghhhhgggghhh... aAgghhhh, me muero... dile a bromcano que lo am... - Exclamó Pablo mientras su sangre regaba el adoquinado del Puente");
 	}
 
 }
