@@ -59,12 +59,16 @@ public class Dialogo {
         System.out.println("Él camina aquí y allá como un cazador, pero una presa hay en su mente. - Añadió Légolas");
         
         System.out.println("Diantres! Era conocedor que los programadores eran seres grotescos y aislados de la humanidad, pero no me imaginaba tal criatura"
-        	+ "Pablo!! Intenta comunicarte con tu hermano! No queremos pelear!");
+        	+ "Pablo!! Intenta comunicarte con tu hermano! No queremos pelear! - Gritó Gimli");
         	
         	
         System.out.println("Gollum, escucha, el anillo único puede ser tuyo, pero la audiencia siempre sera mía - Le susurro Pablo Motos, esquivando un mordisco de la bestia con desfachatez.");
         
         System.out.println("Pobre ser tan repugnante. No querría que mi delicado cutis acabase como la cara de ese desgraciado. Se parece a tu mujer recien levantada, Gimli - Añadió Légolas a carcajadas.");
+        
+        System.out.println("Pff con chistes como esos normal que Pablo te siga invitando a su programa.. - comentó Gimli");
+        
+        System.out.println("Mientras el enano y el elfo estaban discutiendo, Golum se avalanzó a la yugular de Pablo Motos e incó los dientes cual comiéndose un pescado crudo");
 	}
 
 }
